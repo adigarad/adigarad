@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="https://wa.me/+918308000038">whatsp me</a>
-
-
+    <a href="https://www.instagram.com/_rushiii_1710_96_k_?igsh=dTRrNDlhODMwNzMz">sonu insta </a>
+ 
 </body>
 </html>
