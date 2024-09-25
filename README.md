@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-      <a href="https://wa.me/8010146992">monya</a>
+      <a href="https://wa.me/+918010146992">monya</a>
 </body>
 </html>
