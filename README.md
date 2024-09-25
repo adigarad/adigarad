@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-      <a href="https://wa.me/+918010146992">monya</a>
+    <a href="https://www.instagram.com/_manthan.97?igsh=MWpodXV0c3FoZ2N2cw==">monu insta </a>
+ 
 </body>
 </html>
